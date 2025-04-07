@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Proyecto Intermodular DAM 2025
 
 ## 📌 Descripción
@@ -28,3 +29,6 @@ git clone https://github.com/frann21123/proyecto-intermodular-dam-2025.git
 
 ## 📄 Licencia
 MIT License.
+=======
+# proyecto-intermodular-dam-2025
+>>>>>>> 0a63514a7dbee1c51ba14b082fbc576780f373a0
