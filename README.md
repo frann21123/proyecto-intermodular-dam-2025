@@ -1,34 +1,14 @@
-<<<<<<< HEAD
 # Proyecto Intermodular DAM 2025
 
-## 📌 Descripción
-Proyecto del ciclo de DAM 2025. [Descripción aquí].
+📌 **Descripción**  
+Proyecto de desarrollo para el ciclo de DAM 2025. Este proyecto tiene como objetivo crear una aplicación modular utilizando tecnologías como Java y MySQL, aplicada en un entorno real para prácticas educativas.
 
-## 🛠 Tecnologías utilizadas
+🛠 **Tecnologías utilizadas**
 - Java
 - MySQL
 - Git
 
-## 🚀 Instalación
-1. Clona el repo:
-```
+🚀 **Instalación**  
+Clona el repositorio usando el siguiente comando:
+```bash
 git clone https://github.com/frann21123/proyecto-intermodular-dam-2025.git
-```
-
-## 🖼 Capturas
-![captura](recursos/captura1.png)
-
-## 👨‍💻 Autores
-- Frann Fons
-
-## 📁 Estructura
-- `/documentacion/`
-- `/src/`
-- `/recursos/`
-- `/presentacion/`
-
-## 📄 Licencia
-MIT License.
-=======
-# proyecto-intermodular-dam-2025
->>>>>>> 0a63514a7dbee1c51ba14b082fbc576780f373a0
